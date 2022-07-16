@@ -1,5 +1,5 @@
 const index = () => {
-  return <div>index</div>;
+  return <button className="btn btn-primary">Bootstrap is working</button>;
 };
 
 export default index;
