@@ -1,5 +1,7 @@
+import Header from "../components/Header";
+
 const index = () => {
-  return <button className="btn btn-primary">Bootstrap is working</button>;
+  return <Header />;
 };
 
 export default index;
